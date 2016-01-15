@@ -3,7 +3,7 @@ var m = require('./lib/core.js')
 var zt = m['default']
 
 if (typeof __webpack_require__ === 'undefined') {
-  m.addTimeZoneData(require('./data/packed/latest.json'))
+  m.addTimeZoneData(require('./data/packed/complete.json'))
 }
 
 Object.keys(m).forEach(function (k) {
