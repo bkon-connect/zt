@@ -1,0 +1,1161 @@
+{
+  "zones": [
+    {
+      "name": "Africa/Ceuta",
+      "abbrs": [
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET",
+        "CEST",
+        "CET"
+      ],
+      "untils": [
+        1269738000000,
+        1288486800000,
+        1301187600000,
+        1319936400000,
+        1332637200000,
+        1351386000000,
+        1364691600000,
+        1382835600000,
+        1396141200000,
+        1414285200000,
+        1427590800000,
+        1445734800000,
+        1459040400000,
+        1477789200000,
+        1490490000000,
+        1509238800000,
+        1521939600000,
+        1540688400000,
+        1553994000000,
+        1572138000000,
+        1585443600000,
+        1603587600000,
+        null
+      ],
+      "offsets": [
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60
+      ]
+    },
+    {
+      "name": "Africa/Windhoek",
+      "abbrs": [
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST",
+        "WAT",
+        "WAST"
+      ],
+      "untils": [
+        1270339200000,
+        1283648400000,
+        1301788800000,
+        1315098000000,
+        1333238400000,
+        1346547600000,
+        1365292800000,
+        1377997200000,
+        1396742400000,
+        1410051600000,
+        1428192000000,
+        1441501200000,
+        1459641600000,
+        1472950800000,
+        1491091200000,
+        1504400400000,
+        1522540800000,
+        1535850000000,
+        1554595200000,
+        1567299600000,
+        1586044800000,
+        1599354000000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120,
+        -60,
+        -120
+      ]
+    },
+    {
+      "name": "Africa/Accra",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ]
+    },
+    {
+      "name": "Africa/Abidjan",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Bissau",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Monrovia",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Bamako",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Banjul",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Conakry",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Dakar",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Freetown",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Lome",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Nouakchott",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Ouagadougou",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Sao_Tome",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Timbuktu",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "Africa/Accra"
+    },
+    {
+      "name": "Africa/Lagos",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ]
+    },
+    {
+      "name": "Africa/Algiers",
+      "abbrs": [
+        "CET"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Ndjamena",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Tunis",
+      "abbrs": [
+        "CET"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Bangui",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Brazzaville",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Douala",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Kinshasa",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Libreville",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Luanda",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Malabo",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Niamey",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/Porto-Novo",
+      "abbrs": [
+        "WAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ],
+      "link": "Africa/Lagos"
+    },
+    {
+      "name": "Africa/El_Aaiun",
+      "abbrs": [
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET"
+      ],
+      "untils": [
+        1272758400000,
+        1281222000000,
+        1301788800000,
+        1312066800000,
+        1335664800000,
+        1342749600000,
+        1345428000000,
+        1348970400000,
+        1367114400000,
+        1373162400000,
+        1376100000000,
+        1382839200000,
+        1396144800000,
+        1403920800000,
+        1406944800000,
+        1414288800000,
+        1427594400000,
+        1434247200000,
+        1437271200000,
+        1445738400000,
+        1459044000000,
+        1465092000000,
+        1468116000000,
+        1477792800000,
+        1490493600000,
+        1495332000000,
+        1498960800000,
+        1509242400000,
+        1521943200000,
+        1526176800000,
+        1529200800000,
+        1540692000000,
+        1553997600000,
+        1557021600000,
+        1560045600000,
+        1572141600000,
+        1585447200000,
+        1587261600000,
+        1590285600000,
+        1603591200000,
+        null
+      ],
+      "offsets": [
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0
+      ]
+    },
+    {
+      "name": "Africa/Casablanca",
+      "abbrs": [
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET",
+        "WEST",
+        "WET"
+      ],
+      "untils": [
+        1272758400000,
+        1281222000000,
+        1301788800000,
+        1312066800000,
+        1335664800000,
+        1342749600000,
+        1345428000000,
+        1348970400000,
+        1367114400000,
+        1373162400000,
+        1376100000000,
+        1382839200000,
+        1396144800000,
+        1403920800000,
+        1406944800000,
+        1414288800000,
+        1427594400000,
+        1434247200000,
+        1437271200000,
+        1445738400000,
+        1459044000000,
+        1465092000000,
+        1468116000000,
+        1477792800000,
+        1490493600000,
+        1495332000000,
+        1498960800000,
+        1509242400000,
+        1521943200000,
+        1526176800000,
+        1529200800000,
+        1540692000000,
+        1553997600000,
+        1557021600000,
+        1560045600000,
+        1572141600000,
+        1585447200000,
+        1587261600000,
+        1590285600000,
+        1603591200000,
+        null
+      ],
+      "offsets": [
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0,
+        -60,
+        0
+      ],
+      "link": "Africa/El_Aaiun"
+    },
+    {
+      "name": "Africa/Johannesburg",
+      "abbrs": [
+        "SAST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ]
+    },
+    {
+      "name": "Africa/Maputo",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Maseru",
+      "abbrs": [
+        "SAST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Mbabane",
+      "abbrs": [
+        "SAST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Blantyre",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Bujumbura",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Gaborone",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Harare",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Kigali",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Lubumbashi",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Lusaka",
+      "abbrs": [
+        "CAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ],
+      "link": "Africa/Johannesburg"
+    },
+    {
+      "name": "Africa/Khartoum",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ]
+    },
+    {
+      "name": "Africa/Nairobi",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Juba",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Addis_Ababa",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Asmara",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Asmera",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Dar_es_Salaam",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Djibouti",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Kampala",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Africa/Mogadishu",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Africa/Khartoum"
+    },
+    {
+      "name": "Egypt",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1272578400000,
+        1281474000000,
+        1284069600000,
+        1285880400000,
+        1400191200000,
+        1403816400000,
+        1406844000000,
+        1411678800000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Africa/Cairo",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1272578400000,
+        1281474000000,
+        1284069600000,
+        1285880400000,
+        1400191200000,
+        1403816400000,
+        1406844000000,
+        1411678800000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ],
+      "link": "Egypt"
+    },
+    {
+      "name": "Libya",
+      "abbrs": [
+        "EET",
+        "CET",
+        "CEST",
+        "EET"
+      ],
+      "untils": [
+        1352505600000,
+        1364515200000,
+        1382659200000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -60,
+        -120,
+        -120
+      ]
+    },
+    {
+      "name": "Africa/Tripoli",
+      "abbrs": [
+        "EET",
+        "CET",
+        "CEST",
+        "EET"
+      ],
+      "untils": [
+        1352505600000,
+        1364515200000,
+        1382659200000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -60,
+        -120,
+        -120
+      ],
+      "link": "Libya"
+    }
+  ]
+}

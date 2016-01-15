@@ -1,0 +1,237 @@
+{
+  "zones": [
+    {
+      "name": "UTC",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ]
+    },
+    {
+      "name": "Etc/UCT",
+      "abbrs": [
+        "UCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/GMT+0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/UTC",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/GMT",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/GMT-0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/GMT0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/Greenwich",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "GMT",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "GMT+0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "GMT-0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "GMT0",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Greenwich",
+      "abbrs": [
+        "GMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "UCT",
+      "abbrs": [
+        "UCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/Universal",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Etc/Zulu",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Universal",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    },
+    {
+      "name": "Zulu",
+      "abbrs": [
+        "UTC"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        0
+      ],
+      "link": "UTC"
+    }
+  ]
+}

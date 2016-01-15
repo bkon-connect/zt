@@ -1,0 +1,862 @@
+{
+  "zones": [
+    {
+      "name": "Pacific/Auckland",
+      "abbrs": [
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT",
+        "NZST",
+        "NZDT"
+      ],
+      "untils": [
+        1270303200000,
+        1285423200000,
+        1301752800000,
+        1316872800000,
+        1333202400000,
+        1348927200000,
+        1365256800000,
+        1380376800000,
+        1396706400000,
+        1411826400000,
+        1428156000000,
+        1443276000000,
+        1459605600000,
+        1474725600000,
+        1491055200000,
+        1506175200000,
+        1522504800000,
+        1538229600000,
+        1554559200000,
+        1569679200000,
+        1586008800000,
+        1601128800000,
+        null
+      ],
+      "offsets": [
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780
+      ]
+    },
+    {
+      "name": "Pacific/Easter",
+      "abbrs": [
+        "EASST",
+        "EAST",
+        "EASST",
+        "EAST",
+        "EASST",
+        "EAST",
+        "EASST",
+        "EAST",
+        "EASST",
+        "EAST",
+        "EASST",
+        "EAST"
+      ],
+      "untils": [
+        1270350000000,
+        1286683200000,
+        1304823600000,
+        1313899200000,
+        1335668400000,
+        1346558400000,
+        1367118000000,
+        1378612800000,
+        1398567600000,
+        1410062400000,
+        1430017200000,
+        null
+      ],
+      "offsets": [
+        300,
+        360,
+        300,
+        360,
+        300,
+        360,
+        300,
+        360,
+        300,
+        360,
+        300,
+        300
+      ]
+    },
+    {
+      "name": "Pacific/Chatham",
+      "abbrs": [
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT",
+        "CHAST",
+        "CHADT"
+      ],
+      "untils": [
+        1270303200000,
+        1285423200000,
+        1301752800000,
+        1316872800000,
+        1333202400000,
+        1348927200000,
+        1365256800000,
+        1380376800000,
+        1396706400000,
+        1411826400000,
+        1428156000000,
+        1443276000000,
+        1459605600000,
+        1474725600000,
+        1491055200000,
+        1506175200000,
+        1522504800000,
+        1538229600000,
+        1554559200000,
+        1569679200000,
+        1586008800000,
+        1601128800000,
+        null
+      ],
+      "offsets": [
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825,
+        -765,
+        -825
+      ]
+    },
+    {
+      "name": "Pacific/Apia",
+      "abbrs": [
+        "SST",
+        "SDT",
+        "SST",
+        "SDT",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT",
+        "WSST",
+        "WSDT"
+      ],
+      "untils": [
+        1285498800000,
+        1301752800000,
+        1316872800000,
+        1325239200000,
+        1333202400000,
+        1348927200000,
+        1365256800000,
+        1380376800000,
+        1396706400000,
+        1411826400000,
+        1428156000000,
+        1443276000000,
+        1459605600000,
+        1474725600000,
+        1491055200000,
+        1506175200000,
+        1522504800000,
+        1538229600000,
+        1554559200000,
+        1569679200000,
+        1586008800000,
+        1601128800000,
+        null
+      ],
+      "offsets": [
+        660,
+        600,
+        660,
+        600,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840,
+        -780,
+        -840
+      ]
+    },
+    {
+      "name": "Pacific/Bougainville",
+      "abbrs": [
+        "PGT",
+        "BST"
+      ],
+      "untils": [
+        1419696000000,
+        null
+      ],
+      "offsets": [
+        -600,
+        -660
+      ]
+    },
+    {
+      "name": "Pacific/Fakaofo",
+      "abbrs": [
+        "TKT",
+        "TKT"
+      ],
+      "untils": [
+        1325242800000,
+        null
+      ],
+      "offsets": [
+        660,
+        -780
+      ]
+    },
+    {
+      "name": "Pacific/Fiji",
+      "abbrs": [
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST",
+        "FJT",
+        "FJST"
+      ],
+      "untils": [
+        1269698400000,
+        1287842400000,
+        1299333600000,
+        1319292000000,
+        1327154400000,
+        1350741600000,
+        1358604000000,
+        1382796000000,
+        1390050000000,
+        1414850400000,
+        1421503200000,
+        1446300000000,
+        1452952800000,
+        1478354400000,
+        1484402400000,
+        1509804000000,
+        1516456800000,
+        1541253600000,
+        1547906400000,
+        1572703200000,
+        1579356000000,
+        1604152800000,
+        null
+      ],
+      "offsets": [
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780,
+        -720,
+        -780
+      ]
+    },
+    {
+      "name": "Pacific/Galapagos",
+      "abbrs": [
+        "GALT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        360
+      ]
+    },
+    {
+      "name": "Pacific/Gambier",
+      "abbrs": [
+        "GAMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        540
+      ]
+    },
+    {
+      "name": "Pacific/Kiritimati",
+      "abbrs": [
+        "LINT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -840
+      ]
+    },
+    {
+      "name": "Pacific/Marquesas",
+      "abbrs": [
+        "MART"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        570
+      ]
+    },
+    {
+      "name": "Pacific/Norfolk",
+      "abbrs": [
+        "NFT",
+        "NFT"
+      ],
+      "untils": [
+        1443882600000,
+        null
+      ],
+      "offsets": [
+        -690,
+        -660
+      ]
+    },
+    {
+      "name": "Pacific/Palau",
+      "abbrs": [
+        "PWT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ]
+    },
+    {
+      "name": "Pacific/Pitcairn",
+      "abbrs": [
+        "PST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        480
+      ]
+    },
+    {
+      "name": "Pacific/Funafuti",
+      "abbrs": [
+        "TVT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ]
+    },
+    {
+      "name": "Pacific/Kwajalein",
+      "abbrs": [
+        "MHT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Majuro",
+      "abbrs": [
+        "MHT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Nauru",
+      "abbrs": [
+        "NRT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Tarawa",
+      "abbrs": [
+        "GILT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Wake",
+      "abbrs": [
+        "WAKT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Wallis",
+      "abbrs": [
+        "WFT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Kwajalein",
+      "abbrs": [
+        "MHT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ],
+      "link": "Pacific/Funafuti"
+    },
+    {
+      "name": "Pacific/Guadalcanal",
+      "abbrs": [
+        "SBT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ]
+    },
+    {
+      "name": "Pacific/Efate",
+      "abbrs": [
+        "VUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ],
+      "link": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Pacific/Kosrae",
+      "abbrs": [
+        "KOST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ],
+      "link": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Pacific/Noumea",
+      "abbrs": [
+        "NCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ],
+      "link": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Pacific/Pohnpei",
+      "abbrs": [
+        "PONT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ],
+      "link": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Pacific/Ponape",
+      "abbrs": [
+        "PONT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ],
+      "link": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Pacific/Guam",
+      "abbrs": [
+        "ChST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ]
+    },
+    {
+      "name": "Pacific/Chuuk",
+      "abbrs": [
+        "CHUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ],
+      "link": "Pacific/Guam"
+    },
+    {
+      "name": "Pacific/Port_Moresby",
+      "abbrs": [
+        "PGT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ],
+      "link": "Pacific/Guam"
+    },
+    {
+      "name": "Pacific/Truk",
+      "abbrs": [
+        "CHUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ],
+      "link": "Pacific/Guam"
+    },
+    {
+      "name": "Pacific/Yap",
+      "abbrs": [
+        "CHUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ],
+      "link": "Pacific/Guam"
+    },
+    {
+      "name": "Pacific/Saipan",
+      "abbrs": [
+        "ChST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ],
+      "link": "Pacific/Guam"
+    },
+    {
+      "name": "Pacific/Niue",
+      "abbrs": [
+        "NUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        660
+      ]
+    },
+    {
+      "name": "Pacific/Pago_Pago",
+      "abbrs": [
+        "SST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        660
+      ],
+      "link": "Pacific/Niue"
+    },
+    {
+      "name": "Pacific/Midway",
+      "abbrs": [
+        "SST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        660
+      ],
+      "link": "Pacific/Niue"
+    },
+    {
+      "name": "Pacific/Samoa",
+      "abbrs": [
+        "SST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        660
+      ],
+      "link": "Pacific/Niue"
+    },
+    {
+      "name": "Pacific/Rarotonga",
+      "abbrs": [
+        "CKT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        600
+      ]
+    },
+    {
+      "name": "Pacific/Honolulu",
+      "abbrs": [
+        "HST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        600
+      ],
+      "link": "Pacific/Rarotonga"
+    },
+    {
+      "name": "Pacific/Tahiti",
+      "abbrs": [
+        "TAHT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        600
+      ],
+      "link": "Pacific/Rarotonga"
+    },
+    {
+      "name": "Pacific/Johnston",
+      "abbrs": [
+        "HST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        600
+      ],
+      "link": "Pacific/Rarotonga"
+    },
+    {
+      "name": "Pacific/Tongatapu",
+      "abbrs": [
+        "TOT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -780
+      ]
+    },
+    {
+      "name": "Pacific/Enderbury",
+      "abbrs": [
+        "PHOT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -780
+      ],
+      "link": "Pacific/Tongatapu"
+    }
+  ]
+}

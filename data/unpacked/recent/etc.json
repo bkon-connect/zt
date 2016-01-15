@@ -1,0 +1,316 @@
+{
+  "zones": [
+    {
+      "name": "Etc/GMT+1",
+      "abbrs": [
+        "GMT+1"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        60
+      ]
+    },
+    {
+      "name": "Etc/GMT+10",
+      "abbrs": [
+        "GMT+10"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        600
+      ]
+    },
+    {
+      "name": "Etc/GMT+11",
+      "abbrs": [
+        "GMT+11"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        660
+      ]
+    },
+    {
+      "name": "Etc/GMT+12",
+      "abbrs": [
+        "GMT+12"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        720
+      ]
+    },
+    {
+      "name": "Etc/GMT+2",
+      "abbrs": [
+        "GMT+2"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        120
+      ]
+    },
+    {
+      "name": "Etc/GMT+3",
+      "abbrs": [
+        "GMT+3"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        180
+      ]
+    },
+    {
+      "name": "Etc/GMT+4",
+      "abbrs": [
+        "GMT+4"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        240
+      ]
+    },
+    {
+      "name": "Etc/GMT+5",
+      "abbrs": [
+        "GMT+5"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        300
+      ]
+    },
+    {
+      "name": "Etc/GMT+6",
+      "abbrs": [
+        "GMT+6"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        360
+      ]
+    },
+    {
+      "name": "Etc/GMT+7",
+      "abbrs": [
+        "GMT+7"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        420
+      ]
+    },
+    {
+      "name": "Etc/GMT+8",
+      "abbrs": [
+        "GMT+8"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        480
+      ]
+    },
+    {
+      "name": "Etc/GMT+9",
+      "abbrs": [
+        "GMT+9"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        540
+      ]
+    },
+    {
+      "name": "Etc/GMT-1",
+      "abbrs": [
+        "GMT-1"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -60
+      ]
+    },
+    {
+      "name": "Etc/GMT-10",
+      "abbrs": [
+        "GMT-10"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -600
+      ]
+    },
+    {
+      "name": "Etc/GMT-11",
+      "abbrs": [
+        "GMT-11"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -660
+      ]
+    },
+    {
+      "name": "Etc/GMT-12",
+      "abbrs": [
+        "GMT-12"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -720
+      ]
+    },
+    {
+      "name": "Etc/GMT-13",
+      "abbrs": [
+        "GMT-13"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -780
+      ]
+    },
+    {
+      "name": "Etc/GMT-14",
+      "abbrs": [
+        "GMT-14"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -840
+      ]
+    },
+    {
+      "name": "Etc/GMT-2",
+      "abbrs": [
+        "GMT-2"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -120
+      ]
+    },
+    {
+      "name": "Etc/GMT-3",
+      "abbrs": [
+        "GMT-3"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ]
+    },
+    {
+      "name": "Etc/GMT-4",
+      "abbrs": [
+        "GMT-4"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ]
+    },
+    {
+      "name": "Etc/GMT-5",
+      "abbrs": [
+        "GMT-5"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ]
+    },
+    {
+      "name": "Etc/GMT-6",
+      "abbrs": [
+        "GMT-6"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ]
+    },
+    {
+      "name": "Etc/GMT-7",
+      "abbrs": [
+        "GMT-7"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ]
+    },
+    {
+      "name": "Etc/GMT-8",
+      "abbrs": [
+        "GMT-8"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ]
+    },
+    {
+      "name": "Etc/GMT-9",
+      "abbrs": [
+        "GMT-9"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "zt",
+  "version": "0.1.0",
+  "description": "Minimalist timezones for Node.js and the browser, inspired by moment-timezone",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "npm run -s clean && npm run -s build",
+    "lint": "eslint src test ./*.js",
+    "test": "npm run -s lint && npm run -s test:unit && npm run -s test:readme && npm run -s test:zones",
+    "test:unit": "mocha --compilers js:babel-register --recursive test/unit",
+    "test:unit:watch": "mocha -w --compilers js:babel-register --recursive test/unit",
+    "test:zones": "mocha --compilers js:babel-register -u exports --recursive test/zones",
+    "test:readme": "mocha --compilers js:babel-register test/readme.js",
+    "test:browser": "webpack --config test/webpack.config.js && open test/index.html",
+    "clean": "rm -rf dist lib",
+    "build": "npm run -s build:lib && npm run -s build:dist",
+    "build:lib": "babel src --out-dir lib",
+    "build:dist": "webpack -p",
+    "mtz:update": "npm run -s mtz:clean && npm run -s mtz:clone && npm run -s mtz:npm && npm run -s mtz:tests && npm run -s mtz:data",
+    "mtz:clean": "rm -rf tmp/mtz",
+    "mtz:clone": "git clone --depth 1 https://github.com/moment/moment-timezone.git tmp/mtz",
+    "mtz:npm": "cd tmp/mtz && npm i --prod",
+    "mtz:tests": "rm -rf test/zones && cp -r tmp/mtz/tests/zones test/zones",
+    "mtz:data": "rm -rf data/packed data/unpacked && babel-node build-data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkon-connect/zt.git"
+  },
+  "keywords": [
+    "timezone",
+    "iana",
+    "tz"
+  ],
+  "author": "BKON Connect, Inc <developers@bkon.com> (https://bkon.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkon-connect/zt/issues"
+  },
+  "homepage": "https://github.com/bkon-connect/zt#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "eslint": "^1.10.3",
+    "eslint-config-standard": "^4.4.0",
+    "eslint-plugin-standard": "^1.3.1",
+    "json-loader": "^0.5.4",
+    "mkdirp": "^0.5.1",
+    "mocha": "^2.3.4",
+    "webpack": "^1.12.11"
+  }
+}

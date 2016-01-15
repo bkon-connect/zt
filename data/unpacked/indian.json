@@ -1,0 +1,207 @@
+{
+  "zones": [
+    {
+      "name": "Indian/Chagos",
+      "abbrs": [
+        "LMT",
+        "IOT",
+        "IOT"
+      ],
+      "untils": [
+        -1988167780000,
+        820436400000,
+        null
+      ],
+      "offsets": [
+        -289.6666666666667,
+        -300,
+        -360
+      ]
+    },
+    {
+      "name": "Indian/Christmas",
+      "abbrs": [
+        "CXT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ]
+    },
+    {
+      "name": "Indian/Cocos",
+      "abbrs": [
+        "CCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -390
+      ]
+    },
+    {
+      "name": "Indian/Kerguelen",
+      "abbrs": [
+        "zzz",
+        "TFT"
+      ],
+      "untils": [
+        -631152000000,
+        null
+      ],
+      "offsets": [
+        0,
+        -300
+      ]
+    },
+    {
+      "name": "Indian/Mahe",
+      "abbrs": [
+        "LMT",
+        "SCT"
+      ],
+      "untils": [
+        -2006653308000,
+        null
+      ],
+      "offsets": [
+        -221.8,
+        -240
+      ]
+    },
+    {
+      "name": "Indian/Maldives",
+      "abbrs": [
+        "MMT",
+        "MVT"
+      ],
+      "untils": [
+        -315636840000,
+        null
+      ],
+      "offsets": [
+        -294,
+        -300
+      ]
+    },
+    {
+      "name": "Indian/Mauritius",
+      "abbrs": [
+        "LMT",
+        "MUT",
+        "MUST",
+        "MUT",
+        "MUST",
+        "MUT"
+      ],
+      "untils": [
+        -1988164200000,
+        403041600000,
+        417034800000,
+        1224972000000,
+        1238274000000,
+        null
+      ],
+      "offsets": [
+        -230,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240
+      ]
+    },
+    {
+      "name": "Indian/Reunion",
+      "abbrs": [
+        "LMT",
+        "RET"
+      ],
+      "untils": [
+        -1848886912000,
+        null
+      ],
+      "offsets": [
+        -221.86666666666667,
+        -240
+      ]
+    },
+    {
+      "name": "Indian/Comoro",
+      "abbrs": [
+        "LMT",
+        "EAT",
+        "BEAT",
+        "BEAUT",
+        "EAT"
+      ],
+      "untils": [
+        -1309746436000,
+        -1262314800000,
+        -946780200000,
+        -315629100000,
+        null
+      ],
+      "offsets": [
+        -147.26666666666668,
+        -180,
+        -150,
+        -165,
+        -180
+      ]
+    },
+    {
+      "name": "Indian/Antananarivo",
+      "abbrs": [
+        "LMT",
+        "EAT",
+        "BEAT",
+        "BEAUT",
+        "EAT"
+      ],
+      "untils": [
+        -1309746436000,
+        -1262314800000,
+        -946780200000,
+        -315629100000,
+        null
+      ],
+      "offsets": [
+        -147.26666666666668,
+        -180,
+        -150,
+        -165,
+        -180
+      ],
+      "link": "Indian/Comoro"
+    },
+    {
+      "name": "Indian/Mayotte",
+      "abbrs": [
+        "LMT",
+        "EAT",
+        "BEAT",
+        "BEAUT",
+        "EAT"
+      ],
+      "untils": [
+        -1309746436000,
+        -1262314800000,
+        -946780200000,
+        -315629100000,
+        null
+      ],
+      "offsets": [
+        -147.26666666666668,
+        -180,
+        -150,
+        -165,
+        -180
+      ],
+      "link": "Indian/Comoro"
+    }
+  ]
+}

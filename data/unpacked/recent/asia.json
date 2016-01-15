@@ -1,0 +1,2567 @@
+{
+  "zones": [
+    {
+      "name": "Asia/Amman",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269554400000,
+        1288303200000,
+        1301608800000,
+        1319752800000,
+        1333058400000,
+        1387486800000,
+        1395957600000,
+        1414706400000,
+        1427407200000,
+        1446156000000,
+        1459461600000,
+        1477605600000,
+        1490911200000,
+        1509055200000,
+        1522360800000,
+        1540504800000,
+        1553810400000,
+        1571954400000,
+        1585260000000,
+        1604008800000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Baku",
+      "abbrs": [
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT",
+        "AZST",
+        "AZT"
+      ],
+      "untils": [
+        1269734400000,
+        1288483200000,
+        1301184000000,
+        1319932800000,
+        1332633600000,
+        1351382400000,
+        1364688000000,
+        1382832000000,
+        1396137600000,
+        1414281600000,
+        1427587200000,
+        1445731200000,
+        1459036800000,
+        1477785600000,
+        1490486400000,
+        1509235200000,
+        1521936000000,
+        1540684800000,
+        1553990400000,
+        1572134400000,
+        1585440000000,
+        1603584000000,
+        null
+      ],
+      "offsets": [
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240,
+        -300,
+        -240
+      ]
+    },
+    {
+      "name": "Asia/Beirut",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269727200000,
+        1288472400000,
+        1301176800000,
+        1319922000000,
+        1332626400000,
+        1351371600000,
+        1364680800000,
+        1382821200000,
+        1396130400000,
+        1414270800000,
+        1427580000000,
+        1445720400000,
+        1459029600000,
+        1477774800000,
+        1490479200000,
+        1509224400000,
+        1521928800000,
+        1540674000000,
+        1553983200000,
+        1572123600000,
+        1585432800000,
+        1603573200000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Chita",
+      "abbrs": [
+        "YAKT",
+        "YAKST",
+        "YAKT",
+        "YAKT",
+        "IRKT"
+      ],
+      "untils": [
+        1269709200000,
+        1288458000000,
+        1301158800000,
+        1414252800000,
+        null
+      ],
+      "offsets": [
+        -540,
+        -600,
+        -540,
+        -600,
+        -480
+      ]
+    },
+    {
+      "name": "Asia/Damascus",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1270159200000,
+        1288299600000,
+        1301608800000,
+        1319749200000,
+        1333058400000,
+        1351198800000,
+        1364508000000,
+        1382648400000,
+        1395957600000,
+        1414702800000,
+        1427407200000,
+        1446152400000,
+        1458856800000,
+        1477602000000,
+        1490911200000,
+        1509051600000,
+        1522360800000,
+        1540501200000,
+        1553810400000,
+        1571950800000,
+        1585260000000,
+        1604005200000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Gaza",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269640860000,
+        1281474000000,
+        1301608860000,
+        1312146000000,
+        1333058400000,
+        1348178400000,
+        1364508000000,
+        1380229200000,
+        1395957600000,
+        1414098000000,
+        1427493600000,
+        1445547600000,
+        1458943200000,
+        1476997200000,
+        1490997600000,
+        1509051600000,
+        1522447200000,
+        1540501200000,
+        1553896800000,
+        1571950800000,
+        1585346400000,
+        1603400400000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Hebron",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269554400000,
+        1281474000000,
+        1301608860000,
+        1312146000000,
+        1314655200000,
+        1317330000000,
+        1333058400000,
+        1348178400000,
+        1364508000000,
+        1380229200000,
+        1395957600000,
+        1414098000000,
+        1427493600000,
+        1445547600000,
+        1458943200000,
+        1476997200000,
+        1490997600000,
+        1509051600000,
+        1522447200000,
+        1540501200000,
+        1553896800000,
+        1571950800000,
+        1585346400000,
+        1603400400000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Hovd",
+      "abbrs": [
+        "HOVT",
+        "HOVST",
+        "HOVT",
+        "HOVST",
+        "HOVT",
+        "HOVST",
+        "HOVT",
+        "HOVST",
+        "HOVT",
+        "HOVST",
+        "HOVT",
+        "HOVST",
+        "HOVT"
+      ],
+      "untils": [
+        1427482800000,
+        1443196800000,
+        1458932400000,
+        1474646400000,
+        1490382000000,
+        1506700800000,
+        1522436400000,
+        1538150400000,
+        1553886000000,
+        1569600000000,
+        1585335600000,
+        1601049600000,
+        null
+      ],
+      "offsets": [
+        -420,
+        -480,
+        -420,
+        -480,
+        -420,
+        -480,
+        -420,
+        -480,
+        -420,
+        -480,
+        -420,
+        -480,
+        -420
+      ]
+    },
+    {
+      "name": "Asia/Irkutsk",
+      "abbrs": [
+        "IRKT",
+        "IRKST",
+        "IRKT",
+        "IRKT",
+        "IRKT"
+      ],
+      "untils": [
+        1269712800000,
+        1288461600000,
+        1301162400000,
+        1414256400000,
+        null
+      ],
+      "offsets": [
+        -480,
+        -540,
+        -480,
+        -540,
+        -480
+      ]
+    },
+    {
+      "name": "Asia/Kabul",
+      "abbrs": [
+        "AFT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -270
+      ]
+    },
+    {
+      "name": "Asia/Khandyga",
+      "abbrs": [
+        "VLAT",
+        "VLAST",
+        "VLAT",
+        "VLAT",
+        "YAKT",
+        "YAKT"
+      ],
+      "untils": [
+        1269705600000,
+        1288454400000,
+        1301155200000,
+        1315832400000,
+        1414252800000,
+        null
+      ],
+      "offsets": [
+        -600,
+        -660,
+        -600,
+        -660,
+        -600,
+        -540
+      ]
+    },
+    {
+      "name": "Asia/Krasnoyarsk",
+      "abbrs": [
+        "KRAT",
+        "KRAST",
+        "KRAT",
+        "KRAT",
+        "KRAT"
+      ],
+      "untils": [
+        1269716400000,
+        1288465200000,
+        1301166000000,
+        1414260000000,
+        null
+      ],
+      "offsets": [
+        -420,
+        -480,
+        -420,
+        -480,
+        -420
+      ]
+    },
+    {
+      "name": "Asia/Magadan",
+      "abbrs": [
+        "MAGT",
+        "MAGST",
+        "MAGT",
+        "MAGT",
+        "MAGT"
+      ],
+      "untils": [
+        1269702000000,
+        1288450800000,
+        1301151600000,
+        1414245600000,
+        null
+      ],
+      "offsets": [
+        -660,
+        -720,
+        -660,
+        -720,
+        -600
+      ]
+    },
+    {
+      "name": "Asia/Nicosia",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269738000000,
+        1288486800000,
+        1301187600000,
+        1319936400000,
+        1332637200000,
+        1351386000000,
+        1364691600000,
+        1382835600000,
+        1396141200000,
+        1414285200000,
+        1427590800000,
+        1445734800000,
+        1459040400000,
+        1477789200000,
+        1490490000000,
+        1509238800000,
+        1521939600000,
+        1540688400000,
+        1553994000000,
+        1572138000000,
+        1585443600000,
+        1603587600000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Novokuznetsk",
+      "abbrs": [
+        "KRAT",
+        "NOVST",
+        "NOVT",
+        "NOVT",
+        "KRAT"
+      ],
+      "untils": [
+        1269716400000,
+        1288468800000,
+        1301169600000,
+        1414263600000,
+        null
+      ],
+      "offsets": [
+        -420,
+        -420,
+        -360,
+        -420,
+        -420
+      ]
+    },
+    {
+      "name": "Asia/Pyongyang",
+      "abbrs": [
+        "KST",
+        "KST"
+      ],
+      "untils": [
+        1439564400000,
+        null
+      ],
+      "offsets": [
+        -540,
+        -510
+      ]
+    },
+    {
+      "name": "Asia/Rangoon",
+      "abbrs": [
+        "MMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -390
+      ]
+    },
+    {
+      "name": "Asia/Srednekolymsk",
+      "abbrs": [
+        "MAGT",
+        "MAGST",
+        "MAGT",
+        "MAGT",
+        "SRET"
+      ],
+      "untils": [
+        1269702000000,
+        1288450800000,
+        1301151600000,
+        1414245600000,
+        null
+      ],
+      "offsets": [
+        -660,
+        -720,
+        -660,
+        -720,
+        -660
+      ]
+    },
+    {
+      "name": "Asia/Ust-Nera",
+      "abbrs": [
+        "MAGT",
+        "MAGST",
+        "MAGT",
+        "MAGT",
+        "VLAT",
+        "VLAT"
+      ],
+      "untils": [
+        1269702000000,
+        1288450800000,
+        1301151600000,
+        1315828800000,
+        1414249200000,
+        null
+      ],
+      "offsets": [
+        -660,
+        -720,
+        -660,
+        -720,
+        -660,
+        -600
+      ]
+    },
+    {
+      "name": "Asia/Yakutsk",
+      "abbrs": [
+        "YAKT",
+        "YAKST",
+        "YAKT",
+        "YAKT",
+        "YAKT"
+      ],
+      "untils": [
+        1269709200000,
+        1288458000000,
+        1301158800000,
+        1414252800000,
+        null
+      ],
+      "offsets": [
+        -540,
+        -600,
+        -540,
+        -600,
+        -540
+      ]
+    },
+    {
+      "name": "Asia/Yekaterinburg",
+      "abbrs": [
+        "YEKT",
+        "YEKST",
+        "YEKT",
+        "YEKT",
+        "YEKT"
+      ],
+      "untils": [
+        1269723600000,
+        1288472400000,
+        1301173200000,
+        1414267200000,
+        null
+      ],
+      "offsets": [
+        -300,
+        -360,
+        -300,
+        -360,
+        -300
+      ]
+    },
+    {
+      "name": "Asia/Yerevan",
+      "abbrs": [
+        "AMT",
+        "AMST",
+        "AMT",
+        "AMST",
+        "AMT"
+      ],
+      "untils": [
+        1269727200000,
+        1288476000000,
+        1301176800000,
+        1319925600000,
+        null
+      ],
+      "offsets": [
+        -240,
+        -300,
+        -240,
+        -300,
+        -240
+      ]
+    },
+    {
+      "name": "Asia/Aqtobe",
+      "abbrs": [
+        "AQTT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ]
+    },
+    {
+      "name": "Asia/Aqtau",
+      "abbrs": [
+        "AQTT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Ashgabat",
+      "abbrs": [
+        "TMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Dushanbe",
+      "abbrs": [
+        "TJT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Karachi",
+      "abbrs": [
+        "PKT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Oral",
+      "abbrs": [
+        "ORAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Samarkand",
+      "abbrs": [
+        "UZT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Tashkent",
+      "abbrs": [
+        "UZT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Ashkhabad",
+      "abbrs": [
+        "TMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Asia/Aqtobe"
+    },
+    {
+      "name": "Asia/Baghdad",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ]
+    },
+    {
+      "name": "Asia/Riyadh",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Asia/Baghdad"
+    },
+    {
+      "name": "Asia/Qatar",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Asia/Baghdad"
+    },
+    {
+      "name": "Asia/Bahrain",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Asia/Baghdad"
+    },
+    {
+      "name": "Asia/Aden",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Asia/Baghdad"
+    },
+    {
+      "name": "Asia/Kuwait",
+      "abbrs": [
+        "AST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Asia/Baghdad"
+    },
+    {
+      "name": "Asia/Bishkek",
+      "abbrs": [
+        "KGT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ]
+    },
+    {
+      "name": "Asia/Almaty",
+      "abbrs": [
+        "ALMT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Dhaka",
+      "abbrs": [
+        "BDT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Urumqi",
+      "abbrs": [
+        "XJT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Qyzylorda",
+      "abbrs": [
+        "QYZT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Thimphu",
+      "abbrs": [
+        "BTT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Dacca",
+      "abbrs": [
+        "BDT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Thimbu",
+      "abbrs": [
+        "BTT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Kashgar",
+      "abbrs": [
+        "XJT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ],
+      "link": "Asia/Bishkek"
+    },
+    {
+      "name": "Asia/Shanghai",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ]
+    },
+    {
+      "name": "Asia/Brunei",
+      "abbrs": [
+        "BNT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Hong_Kong",
+      "abbrs": [
+        "HKT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Kuala_Lumpur",
+      "abbrs": [
+        "MYT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Kuching",
+      "abbrs": [
+        "MYT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Macau",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Makassar",
+      "abbrs": [
+        "WITA"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Manila",
+      "abbrs": [
+        "PHT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Singapore",
+      "abbrs": [
+        "SGT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Taipei",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Hongkong",
+      "abbrs": [
+        "HKT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Macao",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Ujung_Pandang",
+      "abbrs": [
+        "WITA"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Chongqing",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Chungking",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Harbin",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "PRC",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Singapore",
+      "abbrs": [
+        "SGT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "ROC",
+      "abbrs": [
+        "CST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -480
+      ],
+      "link": "Asia/Shanghai"
+    },
+    {
+      "name": "Asia/Colombo",
+      "abbrs": [
+        "IST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -330
+      ]
+    },
+    {
+      "name": "Asia/Kolkata",
+      "abbrs": [
+        "IST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -330
+      ],
+      "link": "Asia/Colombo"
+    },
+    {
+      "name": "Asia/Calcutta",
+      "abbrs": [
+        "IST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -330
+      ],
+      "link": "Asia/Colombo"
+    },
+    {
+      "name": "Asia/Ho_Chi_Minh",
+      "abbrs": [
+        "ICT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ]
+    },
+    {
+      "name": "Asia/Bangkok",
+      "abbrs": [
+        "ICT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Jakarta",
+      "abbrs": [
+        "WIB"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Pontianak",
+      "abbrs": [
+        "WIB"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Phnom_Penh",
+      "abbrs": [
+        "ICT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Vientiane",
+      "abbrs": [
+        "ICT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Saigon",
+      "abbrs": [
+        "ICT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ],
+      "link": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "Asia/Jayapura",
+      "abbrs": [
+        "WIT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ]
+    },
+    {
+      "name": "Asia/Dili",
+      "abbrs": [
+        "TLT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ],
+      "link": "Asia/Jayapura"
+    },
+    {
+      "name": "Asia/Seoul",
+      "abbrs": [
+        "KST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ],
+      "link": "Asia/Jayapura"
+    },
+    {
+      "name": "Asia/Tokyo",
+      "abbrs": [
+        "JST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ],
+      "link": "Asia/Jayapura"
+    },
+    {
+      "name": "ROK",
+      "abbrs": [
+        "KST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ],
+      "link": "Asia/Jayapura"
+    },
+    {
+      "name": "Japan",
+      "abbrs": [
+        "JST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -540
+      ],
+      "link": "Asia/Jayapura"
+    },
+    {
+      "name": "Asia/Kamchatka",
+      "abbrs": [
+        "PETT",
+        "PETST",
+        "PETT",
+        "PETT"
+      ],
+      "untils": [
+        1269698400000,
+        1288450800000,
+        1301151600000,
+        null
+      ],
+      "offsets": [
+        -720,
+        -720,
+        -660,
+        -720
+      ]
+    },
+    {
+      "name": "Asia/Anadyr",
+      "abbrs": [
+        "ANAT",
+        "ANAST",
+        "ANAT",
+        "ANAT"
+      ],
+      "untils": [
+        1269698400000,
+        1288450800000,
+        1301151600000,
+        null
+      ],
+      "offsets": [
+        -720,
+        -720,
+        -660,
+        -720
+      ],
+      "link": "Asia/Kamchatka"
+    },
+    {
+      "name": "Asia/Omsk",
+      "abbrs": [
+        "OMST",
+        "OMSST",
+        "OMST",
+        "OMST",
+        "OMST"
+      ],
+      "untils": [
+        1269720000000,
+        1288468800000,
+        1301169600000,
+        1414263600000,
+        null
+      ],
+      "offsets": [
+        -360,
+        -420,
+        -360,
+        -420,
+        -360
+      ]
+    },
+    {
+      "name": "Asia/Novosibirsk",
+      "abbrs": [
+        "NOVT",
+        "NOVST",
+        "NOVT",
+        "NOVT",
+        "NOVT"
+      ],
+      "untils": [
+        1269720000000,
+        1288468800000,
+        1301169600000,
+        1414263600000,
+        null
+      ],
+      "offsets": [
+        -360,
+        -420,
+        -360,
+        -420,
+        -360
+      ],
+      "link": "Asia/Omsk"
+    },
+    {
+      "name": "Asia/Tbilisi",
+      "abbrs": [
+        "GET"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ]
+    },
+    {
+      "name": "Asia/Dubai",
+      "abbrs": [
+        "GST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ],
+      "link": "Asia/Tbilisi"
+    },
+    {
+      "name": "Asia/Muscat",
+      "abbrs": [
+        "GST"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ],
+      "link": "Asia/Tbilisi"
+    },
+    {
+      "name": "Asia/Ulaanbaatar",
+      "abbrs": [
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT"
+      ],
+      "untils": [
+        1427479200000,
+        1443193200000,
+        1458928800000,
+        1474642800000,
+        1490378400000,
+        1506697200000,
+        1522432800000,
+        1538146800000,
+        1553882400000,
+        1569596400000,
+        1585332000000,
+        1601046000000,
+        null
+      ],
+      "offsets": [
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480
+      ]
+    },
+    {
+      "name": "Asia/Choibalsan",
+      "abbrs": [
+        "CHOT",
+        "CHOST",
+        "CHOT",
+        "CHOST",
+        "CHOT",
+        "CHOST",
+        "CHOT",
+        "CHOST",
+        "CHOT",
+        "CHOST",
+        "CHOT",
+        "CHOST",
+        "CHOT"
+      ],
+      "untils": [
+        1427479200000,
+        1443193200000,
+        1458928800000,
+        1474642800000,
+        1490378400000,
+        1506697200000,
+        1522432800000,
+        1538146800000,
+        1553882400000,
+        1569596400000,
+        1585332000000,
+        1601046000000,
+        null
+      ],
+      "offsets": [
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480
+      ],
+      "link": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "Asia/Ulan_Bator",
+      "abbrs": [
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT",
+        "ULAST",
+        "ULAT"
+      ],
+      "untils": [
+        1427479200000,
+        1443193200000,
+        1458928800000,
+        1474642800000,
+        1490378400000,
+        1506697200000,
+        1522432800000,
+        1538146800000,
+        1553882400000,
+        1569596400000,
+        1585332000000,
+        1601046000000,
+        null
+      ],
+      "offsets": [
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480,
+        -540,
+        -480
+      ],
+      "link": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "Asia/Vladivostok",
+      "abbrs": [
+        "VLAT",
+        "VLAST",
+        "VLAT",
+        "VLAT",
+        "VLAT"
+      ],
+      "untils": [
+        1269705600000,
+        1288454400000,
+        1301155200000,
+        1414249200000,
+        null
+      ],
+      "offsets": [
+        -600,
+        -660,
+        -600,
+        -660,
+        -600
+      ]
+    },
+    {
+      "name": "Asia/Sakhalin",
+      "abbrs": [
+        "SAKT",
+        "SAKST",
+        "SAKT",
+        "SAKT",
+        "SAKT"
+      ],
+      "untils": [
+        1269705600000,
+        1288454400000,
+        1301155200000,
+        1414249200000,
+        null
+      ],
+      "offsets": [
+        -600,
+        -660,
+        -600,
+        -660,
+        -600
+      ],
+      "link": "Asia/Vladivostok"
+    },
+    {
+      "name": "Asia/Tel_Aviv",
+      "abbrs": [
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST"
+      ],
+      "untils": [
+        1269561600000,
+        1284246000000,
+        1301616000000,
+        1317510000000,
+        1333065600000,
+        1348354800000,
+        1364515200000,
+        1382828400000,
+        1395964800000,
+        1414278000000,
+        1427414400000,
+        1445727600000,
+        1458864000000,
+        1477782000000,
+        1490313600000,
+        1509231600000,
+        1521763200000,
+        1540681200000,
+        1553817600000,
+        1572130800000,
+        1585267200000,
+        1603580400000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Jerusalem",
+      "abbrs": [
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST"
+      ],
+      "untils": [
+        1269561600000,
+        1284246000000,
+        1301616000000,
+        1317510000000,
+        1333065600000,
+        1348354800000,
+        1364515200000,
+        1382828400000,
+        1395964800000,
+        1414278000000,
+        1427414400000,
+        1445727600000,
+        1458864000000,
+        1477782000000,
+        1490313600000,
+        1509231600000,
+        1521763200000,
+        1540681200000,
+        1553817600000,
+        1572130800000,
+        1585267200000,
+        1603580400000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ],
+      "link": "Asia/Tel_Aviv"
+    },
+    {
+      "name": "Israel",
+      "abbrs": [
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST",
+        "IDT",
+        "IST"
+      ],
+      "untils": [
+        1269561600000,
+        1284246000000,
+        1301616000000,
+        1317510000000,
+        1333065600000,
+        1348354800000,
+        1364515200000,
+        1382828400000,
+        1395964800000,
+        1414278000000,
+        1427414400000,
+        1445727600000,
+        1458864000000,
+        1477782000000,
+        1490313600000,
+        1509231600000,
+        1521763200000,
+        1540681200000,
+        1553817600000,
+        1572130800000,
+        1585267200000,
+        1603580400000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ],
+      "link": "Asia/Tel_Aviv"
+    },
+    {
+      "name": "Asia/Katmandu",
+      "abbrs": [
+        "NPT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -345
+      ]
+    },
+    {
+      "name": "Asia/Kathmandu",
+      "abbrs": [
+        "NPT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -345
+      ],
+      "link": "Asia/Katmandu"
+    },
+    {
+      "name": "Iran",
+      "abbrs": [
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST"
+      ],
+      "untils": [
+        1269203400000,
+        1285097400000,
+        1300739400000,
+        1316633400000,
+        1332275400000,
+        1348169400000,
+        1363897800000,
+        1379791800000,
+        1395433800000,
+        1411327800000,
+        1426969800000,
+        1442863800000,
+        1458505800000,
+        1474399800000,
+        1490128200000,
+        1506022200000,
+        1521664200000,
+        1537558200000,
+        1553200200000,
+        1569094200000,
+        1584736200000,
+        1600630200000,
+        null
+      ],
+      "offsets": [
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210
+      ]
+    },
+    {
+      "name": "Asia/Tehran",
+      "abbrs": [
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST",
+        "IRDT",
+        "IRST"
+      ],
+      "untils": [
+        1269203400000,
+        1285097400000,
+        1300739400000,
+        1316633400000,
+        1332275400000,
+        1348169400000,
+        1363897800000,
+        1379791800000,
+        1395433800000,
+        1411327800000,
+        1426969800000,
+        1442863800000,
+        1458505800000,
+        1474399800000,
+        1490128200000,
+        1506022200000,
+        1521664200000,
+        1537558200000,
+        1553200200000,
+        1569094200000,
+        1584736200000,
+        1600630200000,
+        null
+      ],
+      "offsets": [
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210,
+        -270,
+        -210
+      ],
+      "link": "Iran"
+    },
+    {
+      "name": "Turkey",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269738000000,
+        1288486800000,
+        1301274000000,
+        1319936400000,
+        1332637200000,
+        1351386000000,
+        1364691600000,
+        1382835600000,
+        1396227600000,
+        1414285200000,
+        1427590800000,
+        1446944400000,
+        1459040400000,
+        1477789200000,
+        1490490000000,
+        1509238800000,
+        1521939600000,
+        1540688400000,
+        1553994000000,
+        1572138000000,
+        1585443600000,
+        1603587600000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ]
+    },
+    {
+      "name": "Asia/Istanbul",
+      "abbrs": [
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET",
+        "EEST",
+        "EET"
+      ],
+      "untils": [
+        1269738000000,
+        1288486800000,
+        1301274000000,
+        1319936400000,
+        1332637200000,
+        1351386000000,
+        1364691600000,
+        1382835600000,
+        1396227600000,
+        1414285200000,
+        1427590800000,
+        1446944400000,
+        1459040400000,
+        1477789200000,
+        1490490000000,
+        1509238800000,
+        1521939600000,
+        1540688400000,
+        1553994000000,
+        1572138000000,
+        1585443600000,
+        1603587600000,
+        null
+      ],
+      "offsets": [
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120,
+        -180,
+        -120
+      ],
+      "link": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "zones": [
+    {
+      "name": "Indian/Chagos",
+      "abbrs": [
+        "IOT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -360
+      ]
+    },
+    {
+      "name": "Indian/Christmas",
+      "abbrs": [
+        "CXT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -420
+      ]
+    },
+    {
+      "name": "Indian/Cocos",
+      "abbrs": [
+        "CCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -390
+      ]
+    },
+    {
+      "name": "Indian/Maldives",
+      "abbrs": [
+        "MVT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ]
+    },
+    {
+      "name": "Indian/Kerguelen",
+      "abbrs": [
+        "TFT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -300
+      ],
+      "link": "Indian/Maldives"
+    },
+    {
+      "name": "Indian/Mauritius",
+      "abbrs": [
+        "MUT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ]
+    },
+    {
+      "name": "Indian/Mahe",
+      "abbrs": [
+        "SCT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ],
+      "link": "Indian/Mauritius"
+    },
+    {
+      "name": "Indian/Reunion",
+      "abbrs": [
+        "RET"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -240
+      ],
+      "link": "Indian/Mauritius"
+    },
+    {
+      "name": "Indian/Comoro",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ]
+    },
+    {
+      "name": "Indian/Antananarivo",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Indian/Comoro"
+    },
+    {
+      "name": "Indian/Mayotte",
+      "abbrs": [
+        "EAT"
+      ],
+      "untils": [
+        null
+      ],
+      "offsets": [
+        -180
+      ],
+      "link": "Indian/Comoro"
+    }
+  ]
+}

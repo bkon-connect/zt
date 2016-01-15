@@ -1,0 +1,57 @@
+{
+  "America": [
+    "Brazil",
+    "Canada",
+    "Chile",
+    "CST6CDT",
+    "Cuba",
+    "EST",
+    "EST5EDT",
+    "HST",
+    "Iceland",
+    "Jamaica",
+    "Mexico",
+    "MST",
+    "MST7MDT",
+    "Navajo",
+    "PST8PDT",
+    "US"
+  ],
+  "Europe": [
+    "CET",
+    "EET",
+    "Eire",
+    "GB",
+    "MET",
+    "Poland",
+    "Portugal",
+    "W-SU",
+    "WET"
+  ],
+  "Asia": [
+    "Hongkong",
+    "Iran",
+    "Israel",
+    "Japan",
+    "PRC",
+    "ROC",
+    "ROK",
+    "Singapore",
+    "Turkey"
+  ],
+  "Australia": [
+    "NZ"
+  ],
+  "Africa": [
+    "Egypt",
+    "Libya"
+  ],
+  "Antarctica": [],
+  "Indian": [],
+  "Pacific": [
+    "Kwajalein"
+  ],
+  "Atlantic": [],
+  "Arctic": [],
+  "Etc": []
+}
