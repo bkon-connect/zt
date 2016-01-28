@@ -3,14 +3,14 @@ const regions = require('./data/regions.json')
 const path = require('path')
 const pack = n => path.resolve(`data/packed/${n}.json`)
 
-const entries = ['core'].concat(Object.keys(regions)
+const entries = Object.keys(regions)
   .concat('complete')
   .map(e => e.toLowerCase())
-  .reduce((es, e) => es.concat(e, `recent/${e}`), []))
+  .reduce((es, e) => es.concat(e, `recent/${e}`), [])
 
 const entry = entries.reduce((es, e) => {
-  return Object.assign({[e]: [pack('core')].concat(e === 'core' ? [] : pack(e))}, es)
-}, {})
+  return Object.assign({[e]: [pack(e)]}, es)
+}, {core: [path.resolve('index.js')]})
 
 module.exports = {
   context: __dirname,
@@ -23,8 +23,12 @@ module.exports = {
   module: {
     loaders: [
       {
+        test: /core\.json$/,
+        loader: 'json-loader'
+      },
+      {
         test: /\.json$/,
-        exclude: /node_modules/,
+        exclude: /(node_modules|core\.json$)/,
         loader: path.resolve('loader.js')
       }
     ]
