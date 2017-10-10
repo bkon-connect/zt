@@ -22,6 +22,6 @@ export function canonicalize (name) {
 }
 
 export default function tz (timestamp, name, local, opts) {
-  if (timestamp instanceof Date) return new Date(tz(timestamp.getTime(), name))
+  if (timestamp instanceof Date) return new Date(tz(timestamp.getTime(), name, local, opts))
   return timestamp + offset(timestamp, name, local, opts) * 6e4
 }

@@ -27,7 +27,7 @@ assert.equal(ts, 1457856000000)   // one hour later in UTC time...
 
 ts = zt(ts, 'America/Chicago')    // 13 Mar, 2016 03:00 CDT
 assert.equal(ts, 1457838000000)   // ...is 2 hours later in local time,
-                                  // because Daylight Savings Time 
+                                  // because Daylight Savings Time
                                   // went into effect
 
 // Date objects can be used instead of timestamps...
@@ -37,6 +37,7 @@ let d = new Date(Date.UTC(2016, 2, 13, 7, 2, 3))
 // ...and you'll get back a Date object in return...
 
 d = zt(d, 'America/Chicago')
+assert(d instanceof Date)
 
 // ...which is convenient for formatted display in local time:
 
@@ -73,6 +74,14 @@ ts = Date.UTC(2016, 2, 13, 8)
 ts = zt(ts, 'America/Chicago')        // UTC to local
 ts = zt(ts, 'America/Chicago', true)  // local to UTC
 assert.equal(ts, Date.UTC(2016, 2, 13, 8))
+
+// It works for Date objects too:
+
+d = new Date(Date.UTC(2016, 2, 13, 8))
+d = zt(d, 'America/Chicago')        // UTC to local
+d = zt(d, 'America/Chicago', true)  // local to UTC
+assert(d instanceof Date)
+assert.equal(d.getTime(), Date.UTC(2016, 2, 13, 8))
 
 // Offsets can also be retrieved for local to UTC conversions...
 
