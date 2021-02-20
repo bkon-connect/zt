@@ -4,7 +4,6 @@
   "description": "Minimalist timezones for Node.js and the browser, inspired by moment-timezone",
   "main": "index.js",
   "scripts": {
-    "prepublish": "npm run -s clean && npm run -s build",
     "lint": "eslint src test ./*.js",
     "test": "npm run -s lint && npm run -s test:unit && npm run -s test:readme && npm run -s test:zones",
     "test:unit": "mocha --compilers js:babel-register --recursive test/unit",
